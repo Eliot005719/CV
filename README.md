@@ -1,2 +1,2 @@
 # CV
-## THis my small project maode by pythom
+## THis my small project made by pythom
