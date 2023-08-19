@@ -5,7 +5,7 @@
 ```
 #Input
   #"The product exceeded my expectations. It's excellent!",
-  "#I had a terrible experience with this company. The customer service was rude and unhelpful.",
+  #"I had a terrible experience with this company. The customer service was rude and unhelpful.",
   #"The quality of the product is average. It meets my basic requirements.",
   #"I absolutely love this product! It has improved my daily routine.",
 
